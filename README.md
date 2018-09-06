@@ -1,3 +1,2 @@
-# 20170325repository
-这是我gitHub上的第一个资源库，从这一步开始我将逐渐成为java大牛
-大家都说GitHub好，一直没有机会尝试，现在终于抽出一点时间来使用这个工具了
+# 
+spring cloud config 配置中心
